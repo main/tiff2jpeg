@@ -4,6 +4,8 @@
 *.dll
 *.so
 *.dylib
+.idea/
+moodbox-core.iml
 
 # Test binary, built with `go test -c`
 *.test
